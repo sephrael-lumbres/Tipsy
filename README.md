@@ -1,5 +1,5 @@
 # Tipsy
-Basic iOS app that calculates a tip amount, split amount, or a split-plus-tip amount
+Simple iOS app that calculates a tip amount, split amount, or a split-plus-tip amount
 View 1 | View 2
 :-------------------------:|:-------------------------:
 ![](/images/calculate-amount-view.png)  |  ![](/images/results-view.png)
